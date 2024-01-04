@@ -1,19 +1,18 @@
 <h1 align="center">Hi there, I'm Tripti Jaiswal! ✨ </h1>
 
-Greetings, fellow developers and tech enthusiasts! I'm an aspiring Python programmer, Data Strcutures & Algorithms and a machine learning enthusiast.I love exploring and building projects 👩🏻‍💻using various technologies..
+Greetings, fellow developers and tech enthusiasts! I'm an aspiring Python programmer, Data Strcutures & Algorithms and a machine learning enthusiast.  🔭I love exploring and building projects👩🏻‍💻using various technologies.
 
 ## 🚀 About Me
 
 <div style="float: left; margin-right: 20px;">
   
 - 🎓 Currently a sophomore, pursuing B.Tech in Artificial Intelligence and Machine Learning from Indira Gandhi Delhi Technical University for Women.
-- 🔭 I love exploring and building projects👨‍💻using various technologies.
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
 - 👯 I am eager to collaborate with fellow creators, developers, and tech enthusiasts.
 </div>
 
 <div align="center">
-  <img width="300" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="GIF">
+  <img width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&psig=AOvVaw2Ecy-OGqhPxqD9fl6GIOcO&ust=1704470366417000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCL8oqNxIMDFQAAAAAdAAAAABAR">
 </div>
 
 ## 💻 Technologies & Tools
@@ -22,7 +21,7 @@ I engage with a diverse range of technologies to transform concepts into reality
 
 ### 🛠 Languages 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### 🛠 Libraries and Frameworks
 
