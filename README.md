@@ -39,11 +39,6 @@ Let's connect and discuss interesting ideas! You can find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tripti-jaiswal-898472257//)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/triptiijaiswal/)
 
-
-
-## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triptijaiswall&layout=compact&theme=radical)](https://github.com/triptijaiswall/github-readme-stats)
-
 ## 🤝 Open to Joint Endeavors
 
 
