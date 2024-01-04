@@ -12,7 +12,7 @@ Greetings, fellow developers and tech enthusiasts! I'm an aspiring Python progra
 </div>
 
 <div align="center">
-  <img width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffemale-web-developer&psig=AOvVaw2Ecy-OGqhPxqD9fl6GIOcO&ust=1704470366417000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCL8oqNxIMDFQAAAAAdAAAAABAR">
+ 
 </div>
 
 ## 💻 Technologies & Tools
@@ -37,6 +37,7 @@ Let's connect and discuss interesting ideas! You can find me on:
 [![Mail](https://img.shields.io/badge/Mail-Send%20Mail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:triptijas08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tripti-jaiswal-898472257//)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-purple?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/triptiijaiswal/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/triptijaiswall)
 
 ## 🤝 Open to Joint Endeavors
 
